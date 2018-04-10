@@ -1,0 +1,4 @@
+module CNIOLinux {
+    umbrella "/Users/dmytropasinchuk/TestProjects/SwiftNIOTutorial/QOTD-NIO/QOTD-NIO-Starter/Server/.build/checkouts/swift-nio.git-3108475404973543938/Sources/CNIOLinux/include"
+    export *
+}
